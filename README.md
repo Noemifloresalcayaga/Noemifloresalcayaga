@@ -1,4 +1,4 @@
-<h1 align="center">Hola Mundo! 👋, Soy Noemí Flores👽 </h1>
+<h1 align="center">Hola Mundo! 👋, Soy Noemí Flores 🦋 </h1>
 <h3 align="center">Reciente Desarrolladora Web desde Chile!</h3>
 - 🔭 Actualmente estoy trabajando en: **Burguer Queen** una SPA desarrollada con ReactJs
 
