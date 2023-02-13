@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en:  NTTDATA como Solutions Assistant
 
-- 🌱 Actualmente estoy aprendiendo: **Unit Test*.
+- 🌱 Actualmente estoy aprendiendo: **Unit Test**
 
 - 🤖 Quiero aprender: **Nest, Angular, Typescript, Clean Code**.
 
