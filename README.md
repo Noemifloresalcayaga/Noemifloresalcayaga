@@ -1,15 +1,15 @@
 <h1 align="center">Hola Mundo! 🌍, Soy Noemí Flores 🦋 </h1>
 <h3 align="center">Reciente Desarrolladora Web desde Chile!</h3>
 
-- 🔭 Actualmente estoy trabajando en: **Burguer Queen** una SPA desarrollada con ReactJs
+- 🔭 Actualmente estoy trabajando en:  NTTDATA como Solutions Assistant
 
-- 🌱 Actualmente estoy aprendiendo: **ReactJs*.
+- 🌱 Actualmente estoy aprendiendo: **Unit Test*.
 
-- 🤖 Quiero aprender: **Angular, Vue y Python**.
+- 🤖 Quiero aprender: **Nest, Angular, Typescript, Clean Code**.
 
 - 👯 Busco colaborar en: **En proyectos innovadores, con equipos dinamicos y colaborativos**.
 
-- 🤝 Busco ayuda con: **Javascript**.
+- 🤝 Busco ayuda con: **Unit Test**.
 
 - 👨💻 Todos mis proyectos están disponibles en mi repositorio.
 
