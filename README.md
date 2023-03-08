@@ -1,7 +1,6 @@
 <h1 align="center">Hola Mundo! 🌍, Soy Noemí Flores 🦋 </h1>
 <h3 align="center">Reciente Desarrolladora Web desde Chile!</h3>
 
-- 🔭 Actualmente estoy trabajando en:  NTTDATA como Solutions Assistant
 
 - 🌱 Actualmente estoy aprendiendo: **Unit Test**
 
